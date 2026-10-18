@@ -1,0 +1,4 @@
+Model,R2,RMSE ($)
+Ridge (alpha=1.0),0.9253,3023.52
+Linear Regression,0.9131,3261.16
+Ridge tuned (alpha=3),0.9012,3476.26
